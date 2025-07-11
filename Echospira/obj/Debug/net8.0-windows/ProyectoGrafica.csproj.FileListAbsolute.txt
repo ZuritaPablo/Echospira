@@ -1,0 +1,50 @@
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.FormProyecto.resources
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\ProyectoGrafica.exe
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\ProyectoGrafica.deps.json
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\ProyectoGrafica.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\ProyectoGrafica.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\ProyectoGrafica.pdb
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\refint\ProyectoGrafica.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.pdb
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ref\ProyectoGrafica.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SEMESTRE\GRAFICA\prpyecto\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\Proyecto.30EF9B0B.Up2Date
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\ProyectoGrafica.exe
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\ProyectoGrafica.deps.json
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\ProyectoGrafica.runtimeconfig.json
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\ProyectoGrafica.dll
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\ProyectoGrafica.pdb
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.dll
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.Asio.dll
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.Core.dll
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.Midi.dll
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.csproj.AssemblyReference.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.FormProyecto.resources
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.csproj.GenerateResource.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.AssemblyInfoInputs.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.AssemblyInfo.cs
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.csproj.CoreCompileInputs.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\Proyecto.30EF9B0B.Up2Date
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.dll
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\refint\ProyectoGrafica.dll
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.pdb
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ProyectoGrafica.genruntimeconfig.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\ProyectoGrafica\ProyectoGrafica\obj\Debug\net8.0-windows\ref\ProyectoGrafica.dll
