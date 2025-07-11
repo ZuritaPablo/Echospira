@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Me\\RepositoriosPersonales\\Echospira\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0D267FD1-835F-4398-A91C-92058C67D993}|Echospira\\Echospira.csproj|d:\\me\\repositoriospersonales\\echospira\\echospira\\echospira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D267FD1-835F-4398-A91C-92058C67D993}|Echospira\\Echospira.csproj|solutionrelative:echospira\\echospira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D267FD1-835F-4398-A91C-92058C67D993}|Echospira\\Echospira.csproj|d:\\me\\repositoriospersonales\\echospira\\echospira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D267FD1-835F-4398-A91C-92058C67D993}|Echospira\\Echospira.csproj|solutionrelative:echospira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,36 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Echospira.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Me\\RepositoriosPersonales\\Echospira\\Echospira\\Echospira.cs",
-              "RelativeDocumentMoniker": "Echospira\\Echospira.cs",
-              "ToolTip": "D:\\Me\\RepositoriosPersonales\\Echospira\\Echospira\\Echospira.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Echospira\\Echospira.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T20:39:59.479Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Me\\RepositoriosPersonales\\Echospira\\Echospira\\Program.cs",
-              "RelativeDocumentMoniker": "Echospira\\Program.cs",
-              "ToolTip": "D:\\Me\\RepositoriosPersonales\\Echospira\\Echospira\\Program.cs",
-              "RelativeToolTip": "Echospira\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T20:39:51.701Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
